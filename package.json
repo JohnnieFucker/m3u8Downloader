@@ -1,0 +1,34 @@
+{
+  "name": "m3u8downloader",
+  "version": "1.0.0",
+  "description": "use node.js download m3u8 to mp4 by multi process",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnieFucker/m3u8Downloader.git"
+  },
+  "keywords": [
+    "m3u8",
+    "dowload",
+    "mp4"
+  ],
+  "author": "JohnnieFucker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnnieFucker/m3u8Downloader/issues"
+  },
+  "homepage": "https://github.com/JohnnieFucker/m3u8Downloader#readme",
+  "dependencies": {
+    "md5": "^2.2.1",
+    "request": "^2.88.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-vue": "^5.2.3"
+  }
+}
