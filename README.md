@@ -4,7 +4,9 @@
 
 use node.js download m3u8 to mp4 by multi process
 
-###how to use
+need ffmpeg
+
+### how to use
 
 const downloader = require('m3u8_multi_downloader');
 
