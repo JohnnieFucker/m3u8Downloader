@@ -31,8 +31,8 @@
 const downloader = require('./index');
 
 downloader.download({
-    url: 'https://yun.kubozy-youku-163.com/20190709/16666_5a9c65b6/1000k/hls/index.m3u8',
-    processNum: 15,
-    filePath: 'video'
-    // fileName:'test'
+    url: 'https://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/398f331a5285890799636323853/drm/v.f230.m3u8?time=1592791389315',
+    processNum: 40,
+    filePath: 'video',
+    filmName: '商业的本质和互联网'
 });
