@@ -1,6 +1,6 @@
 {
   "name": "m3u8_multi_downloader",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "use node.js download m3u8 to mp4 by multi process",
   "main": "index.js",
   "scripts": {
